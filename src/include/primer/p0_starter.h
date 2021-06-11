@@ -7,7 +7,8 @@
 // Identification: src/include/primer/p0_starter.h
 //
 // Copyright (c) 2015-2020, Carnegie Mellon University Database Group
-// Creating a new branch is quick AND simple.
+// Creating a new branch is quick and simple.
+
 //===----------------------------------------------------------------------===//
 #pragma once
 
